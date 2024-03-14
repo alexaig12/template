@@ -1,7 +1,7 @@
 #  READ_ME
  
 After cloning the GitHub folder, to begin to react native, use the command prompt from the GitHub desktop.
-# ' npx creat-expo-app projectName '
+# ' npx create-expo-app projectName '
 
 
 To access the 'npm web' application option, cd into your new project folder...
