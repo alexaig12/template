@@ -2,6 +2,13 @@
  
 After cloning the GitHub folder, to begin to react native, use the command prompt from the GitHub desktop.
 # ' npx create-expo-app projectName '
+that command if using expo
+
+If react app, then:
+# 'npx create-react-app my-app'
+
+And if wanting to be in typescript, then:
+# 'npx create-react-app my-app --template typescript'
 
 
 To access the 'npm web' application option, cd into your new project folder...
